@@ -1,1 +1,4 @@
-# Cifar
+# Pytorch-CIFAR
+
+
+`python main.py`
